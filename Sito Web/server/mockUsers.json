@@ -1,0 +1,14 @@
+[
+    {
+        "_id": "user123",
+        "name": "Mario Rossi",
+        "email": "mario@test.it",
+        "password": "$2a$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi",
+        "role": "user",
+        "isAccountVerified": true,
+        "verifyOtp": "",
+        "verifyOtpExpireAt": 0,
+        "resetOtp": "",
+        "resetOtpExpireAt": 0
+    }
+]

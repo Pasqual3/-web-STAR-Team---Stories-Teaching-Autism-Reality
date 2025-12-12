@@ -1,0 +1,88 @@
+[
+  {
+    "_id": "mock001",
+    "userId": "user123",
+    "title": "La Mia Giornata al Parco",
+    "paragraphs": [
+      {
+        "text": "Oggi sono andato al parco con i miei amici. Il sole splendeva e faceva caldo.",
+        "media": null,
+        "mediaType": null,
+        "color": "bg-blue-200"
+      },
+      {
+        "text": "Abbiamo giocato a calcio per tutto il pomeriggio. È stato molto divertente!",
+        "media": null,
+        "mediaType": null,
+        "color": "bg-green-200"
+      }
+    ],
+    "createdAt": "2025-12-10T10:00:00.000Z"
+  },
+  {
+    "_id": "mock002",
+    "userId": "user456",
+    "title": "La Storia della Scuola",
+    "paragraphs": [
+      {
+        "text": "A scuola oggi abbiamo imparato tante cose nuove in matematica.",
+        "media": null,
+        "mediaType": null,
+        "color": "bg-yellow-200"
+      },
+      {
+        "text": "La maestra era molto contenta del nostro lavoro. Mi sono sentito orgoglioso!",
+        "media": null,
+        "mediaType": null,
+        "color": "bg-purple-200"
+      }
+    ],
+    "createdAt": "2025-12-11T14:30:00.000Z"
+  },
+  {
+    "_id": "mock003",
+    "userId": "user789",
+    "title": "Avventura in Montagna",
+    "paragraphs": [
+      {
+        "text": "Durante le vacanze sono andato in montagna con la mia famiglia.",
+        "media": "http://localhost:4000/mockImages/Elevator Music.mp3",
+        "mediaType": "audio",
+        "color": "bg-pink-200"
+      },
+      {
+        "text": "Abbiamo fatto una lunga camminata e visto tanti animali. È stata un'esperienza fantastica!",
+        "media": "http://localhost:4000/mockImages/PaniniConProsciuttoCotto.jpeg.webp",
+        "mediaType": "image",
+        "color": "bg-blue-200"
+      },
+      {
+        "text": "La sera abbiamo fatto un falò e raccontato storie. Non vedo l'ora di tornarci!",
+        "media": null,
+        "mediaType": null,
+        "color": "bg-green-200"
+      }
+    ],
+    "createdAt": "2025-12-12T09:15:00.000Z"
+  },
+  {
+    "_id": "mock004",
+    "userId": "user101",
+    "title": "Il Mio Compleanno Speciale",
+    "paragraphs": [
+      {
+        "text": "Oggi è il mio compleanno e sono davvero felice! Ho ricevuto tanti regali bellissimi.",
+        "media": null,
+        "mediaType": null,
+        "color": "bg-yellow-200"
+      },
+      {
+        "text": "Mamma ha preparato una torta enorme al cioccolato, la mia preferita!",
+        "media": null,
+        "mediaType": null,
+        "color": "bg-purple-200"
+      }
+    ],
+    "createdAt": "2025-12-12T11:00:00.000Z"
+  }
+]
